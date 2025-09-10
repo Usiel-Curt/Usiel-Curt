@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 👋 ¡Hola! Soy Usiel<br>🎓 Soy estudiante de Ingeniería en Desarrollo de Software, actualmente en mi tercer cuatrimestre.<br>💻 Me apasiona el mundo de la programación y estoy enfocada en aprender la mayor cantidad posible de lenguajes de programación.<br>🌱 Me encanta aprender cosas nuevas y enfrentarme a retos tecnológicos.<br>🗣️ Hablo solo español.<br>🇲🇽 Tengo 19 años y soy mexicano.<br>🔧 Actualmente estoy practicando y desarrollando proyectos para mejorar mis habilidades.<br>🚀 ¡Estoy emocionado por seguir creciendo en el mundo del desarrollo!
 
 
